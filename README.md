@@ -4,22 +4,22 @@ A full-stack banking application designed to automate the ingestion, categorizat
 
 ![Dashboard Preview](https://github.com/Ajinaline/Rbc-Finance-Automation/raw/main/Screenshot%202026-05-13%20004523.png)
 
-## 🚀 The Mission
+## The Mission
 This project simulates a core banking internal tool. It demonstrates the ability to take unstructured "dirty" transaction strings (e.g., "STARBUCKS COFFEE TORONTO") and use a Python-based automation engine to categorize them into structured financial data for real-time monitoring.
 
-## 🛠️ Technical Stack
+## Technical Stack
 * **Backend:** Python 3.x, **FastAPI** (High-performance REST API)
 * **Frontend:** React 18, **Vite**, **Tailwind CSS v4**
 * **Automation:** Python-based string parsing and data normalization logic
 * **State Management:** React Hooks (`useState`, `useEffect`) for asynchronous data fetching
 
-## 🌟 Key Features
+## Key Features
 * **Automated Categorization:** Backend logic automatically sorts transactions into categories (Food, Shopping, Transport, Income) based on description patterns.
 * **RESTful Architecture:** Clean separation of concerns between the data processing layer (FastAPI) and the presentation layer (React).
 * **Dynamic UI:** Conditional rendering for transaction states and color-coded financial indicators (Green/Red) for instant data readability.
 * **Responsive Design:** Fully styled with Tailwind CSS, following modern "FinTech" design principles.
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### Backend (Python)
 1. Navigate to `/backend`
@@ -33,5 +33,5 @@ This project simulates a core banking internal tool. It demonstrates the ability
 2. Install dependencies: `npm install`
 3. Start dev server: `npm run dev`
 
-## 👨‍💻 RBC Application Context
+## RBC Application Context
 This project was developed to showcase core competencies for **Full Stack**, **API**, and **Automation Developer** roles at RBC. It highlights the bridge between raw data processing and user-facing financial insights.
