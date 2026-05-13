@@ -2,7 +2,7 @@
 
 A full-stack banking application designed to automate the ingestion, categorization, and visualization of raw financial transaction data. Built with a focus on high-performance API design and modern frontend state management.
 
-![Dashboard Preview](YOUR_SCREENSHOT_LINK_HERE)
+![Dashboard Preview](Screenshot 2026-05-13 004523.png)
 
 ## 🚀 The Mission
 This project simulates a core banking internal tool. It demonstrates the ability to take unstructured "dirty" transaction strings (e.g., "STARBUCKS COFFEE TORONTO") and use a Python-based automation engine to categorize them into structured financial data for real-time monitoring.
